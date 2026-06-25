@@ -4,7 +4,7 @@
 
 Transforming raw data into meaningful insights through analytics, automation, and cloud technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haritharan-murli-haran/)[![aritharan6622@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:aritharan6622@gmail.com)
 
 ---
 
@@ -88,15 +88,11 @@ I enjoy solving business problems through data engineering, analytics, and visua
 
 Universiti Malaya
 
-CGPA: **3.83 / 4.00**
-
 ---
 
 🎓 **Bachelor of Engineering (Hons.) Petroleum Engineering**
 
 Universiti Teknologi Petronas
-
-CGPA: **3.60 / 4.00**
 
 ---
 
